@@ -1,6 +1,6 @@
 name: deployable-patch
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "Monkeypatch"
+description: "Various general purpose monkey patches"
 license: MIT
 authors: Deployable Ltd Matt Hoyle
 email: code@deployable.co
