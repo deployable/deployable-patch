@@ -1,27 +1,31 @@
-# deployable-patch
+# Deployable::Patch
 
-* [Homepage](https://rubygems.org/gems/deployable-patch)
-* [Documentation](http://rubydoc.info/gems/deployable-patch/frames)
-* [Email](mailto:code at deployable.co)
+TODO: Write a gem description
 
-## Description
+## Installation
 
-TODO: Description
+Add this line to your application's Gemfile:
 
-## Features
+```ruby
+gem 'deployable-patch'
+```
 
-## Examples
+And then execute:
 
-    require 'deployable/patch'
+    $ bundle
 
-## Requirements
-
-## Install
+Or install it yourself as:
 
     $ gem install deployable-patch
 
-## Copyright
+## Usage
 
-Copyright (c) 2014 Deployable Ltd Matt Hoyle
+TODO: Write usage instructions here
 
-See {file:LICENSE.txt} for details.
+## Contributing
+
+1. Fork it ( https://github.com/[my-github-username]/deployable-patch/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
