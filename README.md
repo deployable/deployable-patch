@@ -1,6 +1,6 @@
 # Deployable::Patch
 
-TODO: Write a gem description
+The place to store all the monkey patches
 
 ## Installation
 
@@ -14,17 +14,19 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
+Or install it yourself:
 
     $ gem install deployable-patch
 
 ## Usage
 
-TODO: Write usage instructions here
+Monkeypatches should be seperated into directories/files based on their classes initially
+Then grouped into include files elsewhere for ease of use
+The more granular the seperation the more control you have over their use
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/deployable-patch/fork )
+1. Fork it ( https://github.com/deployable/deployable-patch/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
