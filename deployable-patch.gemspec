@@ -6,8 +6,8 @@ require 'deployable/patch/version'
 Gem::Specification.new do |spec|
   spec.name          = "deployable-patch"
   spec.version       = Deployable::Patch::VERSION
-  spec.authors       = ["deployable"]
-  spec.email         = ["matt@deployable.co"]
+  spec.authors       = ["Deployable - Matt Hoyle"]
+  spec.email         = ["code@deployable.co"]
   spec.summary       = %q{Central repo for monkey patches to other ruby stuff}
   spec.description   = %q{A central repo to store common monkey patches}
   spec.homepage      = "https://code.deployable.co/ruby/deployable-patch"
