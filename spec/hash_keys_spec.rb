@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'deployable/patch/hash_keys'
+require 'deployable/patch/hash/keys'
 
 describe 'Hash keys any/all' do
   before :each do
