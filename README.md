@@ -24,6 +24,11 @@ Monkeypatches should be seperated into directories/files based on their classes 
 Then grouped into include files elsewhere for ease of use
 The more granular the seperation the more control you have over their use
 
+```ruby
+require "deployable/patch/hash/accept"
+{:one => 1}.accept(:one)
+```
+
 ## Contributing
 
 1. Fork it ( https://github.com/deployable/deployable-patch/fork )
