@@ -1,4 +1,4 @@
-require "deployable/magic/version"
+require "deployable/patch/version"
 
 module Dir
   DOT_ENTRIES = [ '.', '..' ]
